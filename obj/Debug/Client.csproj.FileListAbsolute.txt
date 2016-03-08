@@ -1,0 +1,16 @@
+C:\Users\jboniowski\Desktop\test\Chat\Server\Client\bin\Debug\Client.exe.config
+C:\Users\jboniowski\Desktop\test\Chat\Server\Client\bin\Debug\Client.exe
+C:\Users\jboniowski\Desktop\test\Chat\Server\Client\bin\Debug\Client.pdb
+C:\Users\jboniowski\Desktop\test\Chat\Server\Client\obj\Debug\Client.exe
+C:\Users\jboniowski\Desktop\test\Chat\Server\Client\obj\Debug\Client.pdb
+C:\Users\jboniowski\Desktop\test\Chat\Server\Client\obj\Debug\Client.Main.resources
+C:\Users\jboniowski\Desktop\test\Chat\Server\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\jboniowski\Desktop\test\Chat\Server\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\DEV\VisualStudioDev\Socket\with adam\Server\Server\Client\bin\Debug\Client.exe.config
+C:\DEV\VisualStudioDev\Socket\with adam\Server\Server\Client\obj\Debug\Client.exe
+C:\DEV\VisualStudioDev\Socket\with adam\Server\Server\Client\obj\Debug\Client.pdb
+C:\DEV\VisualStudioDev\Socket\with adam\Server\Server\Client\bin\Debug\Client.exe
+C:\DEV\VisualStudioDev\Socket\with adam\Server\Server\Client\bin\Debug\Client.pdb
+C:\DEV\VisualStudioDev\Socket\with adam\Server\Server\Client\obj\Debug\Client.Main.resources
+C:\DEV\VisualStudioDev\Socket\with adam\Server\Server\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\DEV\VisualStudioDev\Socket\with adam\Server\Server\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
